@@ -1,8 +1,8 @@
 {
-  "name": "hydrion",
+  "name": "hydrioner",
   "version": "1.0.2",
   "description": "",
-  "main": "./dist/hydrion.min.js",
+  "main": "./dist/hydrioner.min.js",
   "dependencies": {},
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
