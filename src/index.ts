@@ -1,3 +1,3 @@
-import { hydrion } from "./core/server/index";
+import { hydrion } from "./core/index";
 
-export { hydrion }
+export default hydrion;

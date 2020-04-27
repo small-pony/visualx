@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'hydrioner.min.js',
-    libraryTarget: "commonjs2"
+    libraryTarget: "umd"
   },
   target: "node",
   resolve: {

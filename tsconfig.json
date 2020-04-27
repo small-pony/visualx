@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "CommonJS",
+        "module": "umd",
         "target": "ES3",
         "allowJs": true,
         "lib": [
@@ -19,6 +19,6 @@
     "exclude": [
         "node_modules",
         "dist",
-        "example"
+        "example",
     ]
 }
